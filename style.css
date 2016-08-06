@@ -27,14 +27,14 @@ section,aside {
 #left {
 	clear:both;
 	float:left;
-	width:50%;
-	background #666;
+	width:47%;
+	margin-right: 3%;
 }
 
 #right{
 	float:left;
-	width:50%;
-	background:#888;
+	width:47%;
+	margin-left:3%;
 }
 
 article{
@@ -51,4 +51,8 @@ p{
 	margin-bottom: 20px;
 	padding:10px;
 	color:#333;
+}
+
+h1{
+	
 }
